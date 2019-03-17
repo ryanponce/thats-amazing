@@ -52,7 +52,7 @@ A complete list of Huell Howser's episodes including watchable links to each one
 - [146 - In-N-Out Burger](https://vhost1.chapman.edu/watch_video.php?v=RYRSBH8H59NH)
 - [147 - Mt. Wilson](https://vhost1.chapman.edu/watch_video.php?v=S1X429ON6YSU)
 - [148 - Kaiser Steel](https://vhost1.chapman.edu/watch_video.php?v=N5D46S9N6X5G)
-- [149 - B2 BomberUpdate](https://vhost1.chapman.edu/watch_video.php?v=A19UUAWUBYHB)
+- [149 - B2 Bomber Update](https://vhost1.chapman.edu/watch_video.php?v=A19UUAWUBYHB)
 
 ### 200 Series
 
