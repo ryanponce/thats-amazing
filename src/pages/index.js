@@ -16,8 +16,19 @@ const IndexPage = ({ data }) => (
       ))}
     </div>
 
-    <div style={{position: "relative", paddingTop: "56.25%"}}>
-    <iframe src="https://vhost1.chapman.edu/player/embed_player.php?vid=1154" frameborder="0" allowfullscreen style={{position: "absolute", top:0, left:0, width:"100%", height:"100%"}}></iframe>
+    <div style={{ position: "relative", paddingTop: "56.25%" }}>
+      <iframe
+        src="https://vhost1.chapman.edu/player/embed_player.php?vid=1154"
+        frameborder="0"
+        allowfullscreen
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100%"
+        }}
+      />
     </div>
 
     <Link to="/page-2/">Go to page 2</Link>

@@ -19,13 +19,10 @@ const Layout = ({ children }) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <div
-        >
+        <div>
           <main>{children}</main>
 
-          <footer>
-            Built with Love in Downtown Los Angeles, California
-          </footer>
+          <footer>Built with ❤️ in Los Angeles</footer>
         </div>
       </>
     )}
